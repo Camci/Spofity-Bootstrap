@@ -11,7 +11,7 @@
     min-height: 200px;
 }
 .player {
-    min-height: 130px;
+    min-height: 110px;
 }
 
 .logo {
@@ -87,7 +87,7 @@
 }
 
 .Scroll {
-    height: 660px;
+    height: 685px;
     overflow-y: scroll;
   }
 
@@ -95,4 +95,9 @@
 .Scroll_2 {
     height: 400px;
     overflow-y: scroll;
-  }
+}
+
+.Scroll_3 {
+    height: 180px;
+    overflow-y: scroll;
+}
