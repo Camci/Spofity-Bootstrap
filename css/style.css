@@ -1,0 +1,98 @@
+.row {
+    justify-content: center;
+}
+
+.row-content {
+    margin: 0px auto;
+    padding-left: 15px;
+    padding-top: 15px; 
+    border-bottom: 1px ridge black;
+    font-size: 14px;
+    min-height: 200px;
+}
+.player {
+    min-height: 130px;
+}
+
+.logo {
+    padding: 10px;
+    width: 20%; height: 20%;
+}
+.music_logo {
+    width: 90%; height: 90%;
+    padding: 20px;
+}
+.playlist_like {
+    padding-top: 30px;
+    margin-left: 30px;
+    margin-bottom: 0;
+}
+
+.right_icons {
+    display: block;
+    font-size: 18px;
+    margin-top: 15%;
+    margin-left: 38%;
+}
+
+.right_icons span {
+    padding-right: 6px;
+    color: white;
+}
+
+.playlists, .menu_directions {
+    color: #afafaf;
+}
+
+.menu_directions span{
+    padding-bottom: 15px;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+}
+.menu_directions i{
+    font-size: 20px;
+}
+
+
+.playlists {
+    padding-top: 30px;
+    font-size: 12px;
+}
+
+.icons {
+    color: white;
+    padding: 10px;
+    font-size: 24px;
+} 
+.icons span {
+    padding-left: 10px;
+} 
+
+.friend_text {
+    color: #b8b8b8;
+}
+
+.friend_text_header {
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.friend_text_mid {
+    font-size: 10px;
+}
+
+.friend_text_bottom {
+    font-size: 9px;
+}
+
+.Scroll {
+    height: 660px;
+    overflow-y: scroll;
+  }
+
+
+.Scroll_2 {
+    height: 400px;
+    overflow-y: scroll;
+  }
