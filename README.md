@@ -1,7 +1,6 @@
 # Spofity-Bootstrap
 Build a Spotify-clone web app with Bootstrap
 
-
 #DESCRIPTION
 
 This project is single page (spotify liked music page) representation with Bootsrap v5.0. This project show us:
@@ -12,6 +11,8 @@ This project is single page (spotify liked music page) representation with Boots
       3) Bootstrap grid
   3) Icon usage and implementation
   4) Responsive images
+  
+Note: This single page is coded in 4 hours!
 
 #INSTALLATION
 
